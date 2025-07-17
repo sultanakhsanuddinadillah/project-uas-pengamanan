@@ -33,7 +33,9 @@
 ## Bagian C – Refleksi Teori & Etika
 
 ### 1. CIA Triad dalam Keamanan Informasi  
-...
+- Confidentiality (Keamanan), Menjamin bahwa informasi hanya dapat diakses oleh pihak yang berwenang. Contoh: enkripsi data.
+- Integrity (Integritas), Memastikan bahwa informasi tidak diubah oleh pihak yang tidak berwenang, baik sengaja maupun tidak sengaja. Contoh: hash, checksums.
+- Avaibility (Ketersediaan), Informasi tersedia dan dapat diakses oleh pengguna yang berhak saat dibutuhkan. Contoh: backup.
 
 ### 2. UU ITE yang relevan  
 ...
