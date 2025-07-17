@@ -56,5 +56,11 @@ Dalam konteks cyber ethics, ayat ini menjadi dasar larangan menyebarkan berita b
  
 
 ### 4. Etika Cyber dan Kejujuran  
-...
+Kejujuran diperlukan saat bekerja dengan data sensitif, laporan audit, dan investigasi digital. Seorang profesional keamanan tidak boleh memanipulasi hasil atau menutupi kelemahan sistem. Dan Amanah berarti menjaga tanggung jawab atas data yang dipercayakan. Misalnya, admin sistem tidak boleh menyalahgunakan aksesnya untuk melihat atau menyebarkan data pribadi pengguna.
+Contoh penerapan:
+•	Tidak membocorkan kerentanan sebelum diperbaiki (responsible disclosure).
+•	Melindungi hak akses walaupun tidak ada pengawasan.
+•	Menolak perintah atasan jika bertentangan dengan hukum atau etika.
+
+
 
