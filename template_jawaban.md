@@ -1,8 +1,8 @@
 # UAS Keamanan Komputer
 
 ## Identitas
-- Nama: MUHAMMAD LAZUARDI IMANI 
-- NIM: 181080200289
+- Nama: Shasica Feby Juliananta 
+- NIM: 221080200015
 - Kelas: Pengamanan Sistem Komputer 6/B4
 - Repo GitHub: [link]
 
