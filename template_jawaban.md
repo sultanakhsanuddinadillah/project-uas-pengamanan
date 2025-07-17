@@ -38,7 +38,13 @@
 - Avaibility (Ketersediaan), Memastikan bahwa informasi dan sistem dapat diakses oleh pengguna yang berwenang saat dibutuhkan. Ketersediaan memastikan bahwa sistem dan data dapat digunakan saat diperlukan. Contoh: backup.
 
 ### 2. UU ITE yang relevan  
-...
+1. Pasal 30 UU ITE:
+   Pasal ini mengatur tentang tindakan mengakses komputer atau sistem elektronik milik orang lain secara ilegal. Terdapat beberapa ayat dalam Pasal 30 yang menjabarkan tindakan akses ilegal yang berbeda-beda, termasuk:
+  - Ayat (1): Akses ilegal tanpa hak atau melawan hukum.
+  - Ayat (2): Akses ilegal dengan tujuan memperoleh informasi elektronik atau dokumen elektronik.
+  - Ayat (3): Akses ilegal dengan cara melanggar, menerobos, melampaui, atau menjebol sistem pengamanan. 
+2. Pasal 31 UU ITE:
+  Pasal ini mengatur tentang intersepsi atau penyadapan ilegal terhadap informasi elektronik atau dokumen elektronik. Intersepsi ilegal berarti tindakan menyadap atau merekam komunikasi elektronik tanpa hak atau melawan hukum. 
 
 ### 3. Pandangan Al-Qur'an  
 - Surah Al-Baqarah: 205  
