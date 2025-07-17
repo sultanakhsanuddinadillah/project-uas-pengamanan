@@ -1,10 +1,10 @@
 # UAS Keamanan Komputer
 
 ## Identitas
-- Nama: Shasica Feby Juliananta 
-- NIM: 221080200015
+- Nama: Marina Adissa Damayanti
+- NIM: 221080200082
 - Kelas: Pengamanan Sistem Komputer 6/B4
-- Repo GitHub: [link]
+- Repo GitHub: [https://github.com/marinaadissa03/UAS-pengamanan-Komputer/edit/main/jawaban%20disa082]
 
 ---
 
